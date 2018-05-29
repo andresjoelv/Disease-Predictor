@@ -1,5 +1,3 @@
-<h3>Contagious Disease Forcast</h3>
-Web application too big to upload to Github due to volume of predictive data, please see link at end of document to see our project in DevPost
 <h3>Inspiration</h3>
 The spread of diseases is a vital facet of healthcare research. Also of interest was the socioeconomic factor of unemployment rate and how this would affect access to healthcare and other factors that influence the spread of disease.
 
@@ -23,6 +21,3 @@ An improved prediction model with more socioeconomic data would be a wonderful i
 
 <h3>Built with</h3>
 Python, Python Machine learning Libraries, Javascript APIS, Bootstrap, MongoDB, Pandas, and much love
-
-<h3>Devpost URL</h3>
-https://devpost.com/software/where-in-the-world-is-flu-men-sandiego
